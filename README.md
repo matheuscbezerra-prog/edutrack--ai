@@ -1,4 +1,4 @@
-##EDUTRACK IA 
+## EDUTRACK IA 
 Projeto da disciplina Innovation Lab – Faculdade Impacta
 Aluno: Matheus Campos Bezerra
 ## tecnologias utilizadas 
