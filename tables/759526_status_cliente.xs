@@ -17,4 +17,5 @@ table "STATUS.CLIENTE" {
   ]
 
   tags = ["módulo cadastro"]
+  guid = "b_il99yfPLC6mORmGe0buEyrmNo"
 }

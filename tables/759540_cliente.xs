@@ -22,4 +22,5 @@ table CLIENTE {
   ]
 
   tags = ["módulo cadastro"]
+  guid = "g30HYaD8WwQMvTfFXDMYk9IEZYg"
 }
