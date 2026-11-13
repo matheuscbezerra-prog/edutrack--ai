@@ -1,0 +1,258 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 3001 >>
+stream
+0.120 0.230 0.540 rg
+40.00 770.00 515.00 45.00 re
+f
+1.000 1.000 1.000 rg
+BT
+/F2 15.00 Tf
+55.00 795.00 Td
+(EduTrack AI - Gestao Academica) Tj
+ET
+BT
+/F1 10.00 Tf
+55.00 778.00 Td
+(Relatorio Oficial de Desempenho do Estudante) Tj
+ET
+0.940 0.960 0.980 rg
+0.850 0.880 0.920 RG
+40.00 680.00 515.00 75.00 re
+B
+0.060 0.090 0.160 rg
+BT
+/F2 11.00 Tf
+55.00 735.00 Td
+(Identificacao do Aluno) Tj
+ET
+BT
+/F1 10.00 Tf
+55.00 715.00 Td
+(Nome: Matheus Campos) Tj
+ET
+BT
+/F1 10.00 Tf
+55.00 695.00 Td
+(E-mail: estudante@edutrack.ai) Tj
+ET
+BT
+/F1 10.00 Tf
+330.00 715.00 Td
+(Data de Emissao: 13/11/2026 09:04) Tj
+ET
+BT
+/F1 10.00 Tf
+330.00 695.00 Td
+(Disciplinas Cursadas: 3) Tj
+ET
+0.950 0.970 1.000 rg
+0.750 0.820 0.950 RG
+40.00 585.00 515.00 80.00 re
+B
+0.120 0.230 0.540 rg
+BT
+/F2 11.00 Tf
+55.00 645.00 Td
+(Resumo Geral de Rendimento) Tj
+ET
+0.150 0.180 0.250 rg
+BT
+/F1 10.00 Tf
+55.00 625.00 Td
+(Total de Tarefas: 5) Tj
+ET
+BT
+/F1 10.00 Tf
+180.00 625.00 Td
+(Tarefas Concluidas: 4) Tj
+ET
+BT
+/F1 10.00 Tf
+320.00 625.00 Td
+(Tarefas Pendentes: 1) Tj
+ET
+0.080 0.450 0.250 rg
+BT
+/F2 10.00 Tf
+440.00 625.00 Td
+(Progresso Global: 80.0%) Tj
+ET
+0.850 0.880 0.920 rg
+55.00 600.00 485.00 12.00 re
+f
+0.230 0.510 0.960 rg
+55.00 600.00 388.00 12.00 re
+f
+0.060 0.090 0.160 rg
+BT
+/F2 12.00 Tf
+40.00 555.00 Td
+(Detalhamento por Disciplina) Tj
+ET
+0.120 0.230 0.540 rg
+40.00 530.00 515.00 20.00 re
+f
+1.000 1.000 1.000 rg
+BT
+/F2 9.00 Tf
+50.00 536.00 Td
+(Disciplina) Tj
+ET
+BT
+/F2 9.00 Tf
+220.00 536.00 Td
+(Professor) Tj
+ET
+BT
+/F2 9.00 Tf
+350.00 536.00 Td
+(Horas) Tj
+ET
+BT
+/F2 9.00 Tf
+410.00 536.00 Td
+(Tarefas) Tj
+ET
+BT
+/F2 9.00 Tf
+480.00 536.00 Td
+(Progresso) Tj
+ET
+0.970 0.980 0.990 rg
+40.00 508.00 515.00 20.00 re
+f
+0.150 0.180 0.250 rg
+BT
+/F2 9.00 Tf
+50.00 513.00 Td
+(Matematica Discreta) Tj
+ET
+BT
+/F1 9.00 Tf
+220.00 513.00 Td
+(Prof. Roberto) Tj
+ET
+BT
+/F1 9.00 Tf
+350.00 513.00 Td
+(60h) Tj
+ET
+BT
+/F1 9.00 Tf
+415.00 513.00 Td
+(2/2) Tj
+ET
+0.080 0.450 0.250 rg
+BT
+/F2 9.00 Tf
+485.00 513.00 Td
+(100.0%) Tj
+ET
+0.900 0.920 0.940 RG
+0.50 w
+40.00 508.00 m 555.00 508.00 l S
+0.150 0.180 0.250 rg
+BT
+/F2 9.00 Tf
+50.00 493.00 Td
+(Estruturas de Dados) Tj
+ET
+BT
+/F1 9.00 Tf
+220.00 493.00 Td
+(Prof. Ana Silva) Tj
+ET
+BT
+/F1 9.00 Tf
+350.00 493.00 Td
+(80h) Tj
+ET
+BT
+/F1 9.00 Tf
+415.00 493.00 Td
+(1/2) Tj
+ET
+0.150 0.350 0.750 rg
+BT
+/F2 9.00 Tf
+485.00 493.00 Td
+(50.0%) Tj
+ET
+0.900 0.920 0.940 RG
+0.50 w
+40.00 488.00 m 555.00 488.00 l S
+0.970 0.980 0.990 rg
+40.00 468.00 515.00 20.00 re
+f
+0.150 0.180 0.250 rg
+BT
+/F2 9.00 Tf
+50.00 473.00 Td
+(Banco de Dados I) Tj
+ET
+BT
+/F1 9.00 Tf
+220.00 473.00 Td
+(Prof. Carlos) Tj
+ET
+BT
+/F1 9.00 Tf
+350.00 473.00 Td
+(60h) Tj
+ET
+BT
+/F1 9.00 Tf
+415.00 473.00 Td
+(1/1) Tj
+ET
+0.080 0.450 0.250 rg
+BT
+/F2 9.00 Tf
+485.00 473.00 Td
+(100.0%) Tj
+ET
+0.900 0.920 0.940 RG
+0.50 w
+40.00 468.00 m 555.00 468.00 l S
+0.800 0.850 0.900 RG
+0.75 w
+40.00 60.00 m 555.00 60.00 l S
+0.400 0.450 0.500 rg
+BT
+/F1 8.00 Tf
+45.00 45.00 Td
+(EduTrack AI - Sistema de Gestao Academica Inteligente. Documento emitido para fins de acompanhamento escolar.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000263 00000 n 
+0000003316 00000 n 
+0000003413 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+3515
+%%EOF
